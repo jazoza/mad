@@ -4,6 +4,15 @@ Part of FHNW Lehrfonds 2022
 
 Based on outputs of SNSF-funded research project [Radio Explorations](http://radioexplorations.ch)
 
+## Files
+
+Click on below links to open the handbooks in Colab:
+
+1. [Python and SOM Basics](https://colab.research.google.com/github/jazoza/mad/blob/main/01_MAD_intro_python_SOM.ipynb) 
+2. [Dataset basis](https://colab.research.google.com/github/jazoza/mad/blob/main/02_MAD_intro_datasets.ipynb)
+3. [Importing data into SOM](https://colab.research.google.com/github/jazoza/mad/blob/main/03_MAD_SOM_import.ipynb)
+4. [Experiments with Clustering and Projecting](https://colab.research.google.com/github/jazoza/mad/blob/main/04_MAD_SOM_experiments.ipynb)
+
 ## Description
 
 Patterns and trends that machine learning models identify in large datasets, or ‘Big Data’, are taken as sources of truth and reason in recruitment and admission processes, measures taken in handling the pandemic, as well as in individual decisions to purchase an item. In current state of the art machine learning models (GANs, diffusion models), the way patterns are identified is inseparable from the datasets used to analyze data, because models are based on statistics. Nevertheless, we have very limited access to examine the processes and sources that inform such decisions.  
