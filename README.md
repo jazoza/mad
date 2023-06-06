@@ -9,7 +9,7 @@ Based on outputs of SNSF-funded research project [Radio Explorations](http://rad
 Click on below links to open the handbooks in Colab:
 
 1. [Python and SOM Basics](https://colab.research.google.com/github/jazoza/mad/blob/main/01_MAD_intro_python_SOM.ipynb) 
-2. [Importing data into SOM](https://colab.research.google.com/github/jazoza/mad/blob/main/02_MAD_SOM_import.ipynb)
+2. [Importing data into SOM](https://colab.research.google.com/github/jazoza/mad/blob/main/02_import_data-colab.ipynb)
 3. [Dataset Basics](https://colab.research.google.com/github/jazoza/mad/blob/main/03_MAD_intro_datasets.ipynb)
 4. [Experiments with Clustering and Projecting](https://colab.research.google.com/github/jazoza/mad/blob/main/04_MAD_SOM_experiments.ipynb)
 
